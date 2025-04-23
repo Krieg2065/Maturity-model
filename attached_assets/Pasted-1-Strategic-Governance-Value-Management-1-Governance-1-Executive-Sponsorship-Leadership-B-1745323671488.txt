@@ -1,0 +1,46 @@
+1. Strategic Governance & Value Management #1 - Governance
+•	1: Executive Sponsorship & Leadership Buy-in
+•	2: Business Case Robustness & Value Realization
+•	3: Steering Committee Effectiveness & Decision Governance
+•	5: Funding Adequacy & Budget Control
+•	12: Real-Time KPI Tracking & Executive Dashboards
+2. Program & Project Execution #2 - Execution
+•	4: Risk & Issue Management Excellence
+•	6: Partner & Vendor Performance Management
+•	7: Program Management Office Maturity Framework
+•	8: Project Planning & Phase Structure Execution
+•	9: Scope Management & Change Control
+•	13: Predictive Risk Analysis & Early Warning Systems
+3. Technical Architecture & Infrastructure
+•	14: Performance Monitoring & System Health Checks
+•	15: Technical Landscape Understanding & Documentation
+•	16: Cloud Adoption, Scalability & Performance Optimization
+•	17: Integration Architecture & API Management
+•	19: ISV & Add-on Solution Governance
+4. Security, Compliance & Data Management
+•	18: Security, Compliance & Data Privacy Framework
+•	20: Release & Deployment Management (CI/CD, DevOps)
+•	29: Data Migration Strategy & Execution
+•	30: Master Data Management (MDM) & Data Governance
+•	38: Localization, Tax, & Legal Compliance
+5. Business Process & Solution Design
+•	10: Customization Strategy & Best Practices
+•	25: Industry-Specific Requirements & Customization Compliance
+•	26: Process Documentation & Standardization
+•	27: Process Automation & Workflow Optimization
+•	28: AI & Copilot Enablement for Business Process Improvement
+6. Core D365 Module Configuration
+•	11: Testing & Validation Framework
+•	21: Finance Module Configuration Maturity
+•	22: Supply Chain Management (SCM) Configuration Maturity
+•	23: Manufacturing Execution & Planning Configuration Maturity
+•	24: Retail & Commerce Configuration Maturity
+7. Change Management & User Adoption
+•	31: Stakeholder Engagement & Communication Strategy
+•	32: Resistance Management & Cultural Change Adoption
+•	33: Training & User Enablement Excellence
+•	34: User Adoption Measurement & Success Tracking
+8. Support & Continuous Improvement
+•	35: Hypercare & Transition to Steady-State Support
+•	36: Support Model & Service Management (ITIL Alignment)
+•	37: Continuous Improvement & Optimization Programs
